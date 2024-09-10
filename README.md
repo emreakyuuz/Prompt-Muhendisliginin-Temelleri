@@ -30,7 +30,7 @@ Merhaba arkadaşlar! Bir önceki bölümde promptun ne olduğunu ve neden öneml
 
 **Örnekler:**
 - Belirsiz: "Bana bir hikaye anlat." 
-  - Açık ve Kesin: "Bana üç paragraf uzunluğunda, bir çocuk ve köpeği hakkında mutlu sonla biten bir hikaye anlat."
+  - Açık ve Kesin: "Bana üç paragraf uzunluğunda, bir çocuk ve köpeği hakkında mutlu sonla biten bir hikaye anlat." 
 - Belirsiz: "Bana biraz bilgi ver." 
   - Açık ve Kesin: "Bana Mars gezegeni hakkında beş ilginç bilgi ver."
 
